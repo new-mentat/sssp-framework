@@ -25,8 +25,12 @@ parsed.
 
 ## Executing the program
 
-I've included two files, `run.sh` and `test_run.sh` which will execute o
+I've included two files, `run.sh` and `test_run.sh` which will execute your
+program and the test program, respectively. In order to use test over
+graphs, you will have to change the arguments in the .sh files.
 
+`sh run.sh` - runs your executable.
+`sh run_test.sh` - runs the test. 
 
 Alternatively, you can run the following commands yourself, and adjust the
 parameters, if you don't want to use my scripts.
